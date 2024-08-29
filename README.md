@@ -68,14 +68,7 @@ I have a strong background in both frontend and backend development, and I thriv
   - VS Code, Git, GitHub
   - Postman, GitHub Copilot, Jest
 
-### 🌟 Projects
 
-#### [Anovo.me](https://github.com/8horses/anovo-me)
-
-
-- **Tech Stack:** React, Next.js, Tailwind CSS, Node.js, MongoDB
-- **Role:** Co-Founder, Lead Developer
-- **Highlights:** Developed a resume and cover letter generator, implemented user authentication, and managed CI/CD pipelines.
 
 
 ### 🎩 Certificates
