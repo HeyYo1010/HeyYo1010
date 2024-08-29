@@ -78,6 +78,11 @@ An AI-powered platform designed to enhance the job search experience. It offers 
 - **Highlights:** Developed a resume and cover letter generator, implemented user authentication, and managed CI/CD pipelines.
 
 
+### 🎩 Certificates
+
+![AWS](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png)
+
+
 ### 📫 Let's Connect
 
 - **LinkedIn:** [Yoyo LinkedIn](www.linkedin.com/in/yoyot)
