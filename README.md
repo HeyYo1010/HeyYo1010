@@ -84,8 +84,8 @@ An AI-powered platform designed to enhance the job search experience. It offers 
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [Yoyo LinkedIn](www.linkedin.com/in/yoyot)
-- **Email:** [yoyo@example.com](mailto:ytia1010@gmail.com)
+- **LinkedIn:** [](www.linkedin.com/in/yoyot)
+- **Email:** [ytia1010@gmail.com](mailto:ytia1010@gmail.com)
 
 ---
 
