@@ -16,6 +16,7 @@ I have a strong background in both frontend and backend development, and I thriv
   - React, Next.js, Tailwind CSS
   - TypeScript, JavaScript, HTML5, CSS3
   - Shadcn,  Sonner
+    ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 - **Backend:** 
   - Node.js, Express.js
   - Python, Flask
