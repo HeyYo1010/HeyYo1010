@@ -80,11 +80,11 @@ An AI-powered platform designed to enhance the job search experience. It offers 
 
 ### 🎩 Certificates
 
-![img](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png)
+![AWS Certified Machine Learning - Specialty](https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Machine-Learning-Specialty_badge.e5d66b56552bbf046f905bacaecef6dad0ae7180.png)
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [](www.linkedin.com/in/yoyot)
+- **LinkedIn:** [yoyot](www.linkedin.com/in/yoyot)
 - **Email:** [ytia1010@gmail.com](mailto:ytia1010@gmail.com)
 
 ---
