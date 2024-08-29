@@ -71,7 +71,7 @@ I have a strong background in both frontend and backend development, and I thriv
 ### 🌟 Projects
 
 #### [Anovo.me](https://github.com/8horses/anovo-me)
-An AI-powered platform designed to enhance the job search experience. It offers features like AI-generated cover letters, resume checking, and career coaching.
+
 
 - **Tech Stack:** React, Next.js, Tailwind CSS, Node.js, MongoDB
 - **Role:** Co-Founder, Lead Developer
