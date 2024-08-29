@@ -50,10 +50,12 @@ I have a strong background in both frontend and backend development, and I thriv
 - **LLMs:**
   - OpenAI, Claude AI, Genmini
   - Pincone
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-- **AI:**
-  -Pytorch, Hugginface,Langchain, 
+- **AI:** 
+  - Pytorch, Hugginface,Langchain
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
